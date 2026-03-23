@@ -5,7 +5,7 @@ int main()
     
     int a;
     printf("Informe numero inteiro : \n");
-    scanf("%f", &a);
+    scanf("%d", &a);
     if (a <0) {
         printf("O valor é negativo \n");
   
