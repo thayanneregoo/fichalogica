@@ -1,0 +1,14 @@
+# Executáveis
+output
+*.exe
+*.out
+
+# Arquivos objeto
+*.o
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Pasta do VS Code
+.vscode/
