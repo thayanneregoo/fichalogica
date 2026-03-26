@@ -10,7 +10,7 @@ int main(){
     scanf("%d", &numero);
     antecessor = numero - 1;
     sucessor = numero + 1;
-    printf("O antecessor de %d e: %d\n", numero, antecessor);
-    printf("O sucessor de %d e: %d\n", numero, sucessor);
+    printf("O antecessor de %d = %d\n", numero, antecessor);
+    printf("O sucessor de %d = %d\n", numero, sucessor);
     return 0;   
 }

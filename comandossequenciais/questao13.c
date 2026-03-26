@@ -3,7 +3,7 @@
 
 int main()
 {
-    float preco_fabrica, preço;
+    float preco_fabrica, preco;
     int preco_loja,reais,centavos;
     printf("Informe preço de fábrica(utilize '.' : \n");
     scanf("%f", &preco_fabrica);

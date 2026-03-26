@@ -16,4 +16,4 @@ int main(){
     scanf("%f", &vendas);
     printf("Salario Final: %.2f", calc_salario(salario, vendas));
     return 0;
-}
+}   
